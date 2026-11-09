@@ -59,11 +59,11 @@ Evaluated on the test set (2,000 rows).
 
 | Metric | Value |
 |---|---|
-| Train accuracy | *add yours* |
-| Validation accuracy | *add yours* |
+| Train accuracy | *0.8700* |
+| Validation accuracy | *0.8569* |
 | Test accuracy | 0.8425 (84.25%) |
-| AUC | *add yours* |
-| Best threshold | *add yours* |
+| AUC | *0.85* |
+| Best threshold | *0.27114546298980713* |
 
 ### Confusion Matrix
 
